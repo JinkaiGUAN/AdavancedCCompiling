@@ -1,1 +1,2 @@
-./cp3/sharedLibs/build/*
+#  忽略所有 build 目录
+build/
